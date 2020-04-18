@@ -1,2 +1,1 @@
-Public static void main ()
-{
+Public static void main (){
